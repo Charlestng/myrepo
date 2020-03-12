@@ -1,0 +1,6 @@
+source bin/activate
+export APP_SETTINGS="config.ProductionConfig"
+export DBUSER="antoinekrajnc01@lin-reg"
+export DBPASS="Q+J~5Y;UdxD="
+export DBHOST="lin-reg.postgres.database.azure.com"
+export DBNAME="postgres"
